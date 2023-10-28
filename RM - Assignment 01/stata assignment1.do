@@ -4,7 +4,7 @@ clear
 ***Assignment 01 (Research Methods -2)
 
 *** Import the data from assignment as csv:
-import delimited "C:\Users\lbsar\OneDrive\Desktop\assignment1-research-methods.csv"
+import delimited "/Users/ac5449/Documents/MGMT PHD/Fall 2023 - MGMT PhD - Arnab/Research Methods - 2/Assignment 01/assignment1-research-methods.csv"
 
 *** Basic regression to check the effect of being from elite school in getting a call back: 
 reg calledback eliteschoolcandidate
